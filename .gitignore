@@ -1,5 +1,6 @@
 node_modules/
 dist/
+*.tsbuildinfo
 *.tgz
 benchmarks/results/
 .DS_Store
